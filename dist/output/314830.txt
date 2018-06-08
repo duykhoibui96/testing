@@ -1,0 +1,406 @@
+SessionId: 314830
+4 pages of commands found:
+   Page 1
+       1.
+        id = 25819913
+        data url = /wd/hub/session
+        created at = 2018-06-07T11:15:55.049Z
+        ended at = 2018-06-07T11:16:37.009Z
+       2.
+        id = 25819947
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/timeouts
+        created at = 2018-06-07T11:16:38.252Z
+        ended at = 2018-06-07T11:16:38.280Z
+       3.
+        id = 25819951
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/window/current/size
+        created at = 2018-06-07T11:16:39.056Z
+        ended at = 2018-06-07T11:16:39.113Z
+       4.
+        id = 25819957
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:16:39.715Z
+        ended at = 2018-06-07T11:16:39.779Z
+       5.
+        id = 25819962
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:16:40.361Z
+        ended at = 2018-06-07T11:16:40.388Z
+       6.
+        id = 25819964
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:16:40.958Z
+        ended at = 2018-06-07T11:16:40.986Z
+       7.
+        id = 25819968
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:16:41.580Z
+        ended at = 2018-06-07T11:16:41.609Z
+       8.
+        id = 25819972
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:16:42.194Z
+        ended at = 2018-06-07T11:16:42.223Z
+       9.
+        id = 25819977
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/element/1/location
+        created at = 2018-06-07T11:16:42.838Z
+        ended at = 2018-06-07T11:16:42.872Z
+       10.
+        id = 25819982
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/touch/perform
+        created at = 2018-06-07T11:16:43.473Z
+        ended at = 2018-06-07T11:16:43.874Z
+       11.
+        id = 25819988
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/window/current/size
+        created at = 2018-06-07T11:16:44.482Z
+        ended at = 2018-06-07T11:16:44.515Z
+       12.
+        id = 25819993
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:16:45.082Z
+        ended at = 2018-06-07T11:16:45.197Z
+       13.
+        id = 25820000
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:16:45.802Z
+        ended at = 2018-06-07T11:16:45.833Z
+       14.
+        id = 25820005
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:16:46.405Z
+        ended at = 2018-06-07T11:16:46.436Z
+       15.
+        id = 25820007
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:16:47.006Z
+        ended at = 2018-06-07T11:16:47.033Z
+       16.
+        id = 25820013
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:16:47.620Z
+        ended at = 2018-06-07T11:16:47.649Z
+       17.
+        id = 25820019
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/element/2/location
+        created at = 2018-06-07T11:16:48.309Z
+        ended at = 2018-06-07T11:16:48.341Z
+       18.
+        id = 25820024
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/touch/perform
+        created at = 2018-06-07T11:16:48.899Z
+        ended at = 2018-06-07T11:16:49.505Z
+       19.
+        id = 25820035
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/window/current/size
+        created at = 2018-06-07T11:16:50.163Z
+        ended at = 2018-06-07T11:16:50.195Z
+       20.
+        id = 25820043
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:16:50.754Z
+        ended at = 2018-06-07T11:16:50.831Z
+   Page 2
+       1.
+        id = 25820050
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:16:51.416Z
+        ended at = 2018-06-07T11:16:51.444Z
+       2.
+        id = 25820060
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:16:52.010Z
+        ended at = 2018-06-07T11:16:52.038Z
+       3.
+        id = 25820069
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:16:52.606Z
+        ended at = 2018-06-07T11:16:52.632Z
+       4.
+        id = 25820078
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:16:53.234Z
+        ended at = 2018-06-07T11:16:53.262Z
+       5.
+        id = 25820086
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/element/3/location
+        created at = 2018-06-07T11:16:53.833Z
+        ended at = 2018-06-07T11:16:53.886Z
+       6.
+        id = 25820095
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/touch/perform
+        created at = 2018-06-07T11:16:54.441Z
+        ended at = 2018-06-07T11:16:54.975Z
+       7.
+        id = 25820107
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/window/current/size
+        created at = 2018-06-07T11:16:55.578Z
+        ended at = 2018-06-07T11:16:55.607Z
+       8.
+        id = 25820115
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:16:56.185Z
+        ended at = 2018-06-07T11:16:56.247Z
+       9.
+        id = 25820123
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:16:56.804Z
+        ended at = 2018-06-07T11:16:56.829Z
+       10.
+        id = 25820129
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:16:57.432Z
+        ended at = 2018-06-07T11:16:57.459Z
+       11.
+        id = 25820163
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:17:00.082Z
+        ended at = 2018-06-07T11:17:00.111Z
+       12.
+        id = 25820170
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f
+        created at = 2018-06-07T11:17:00.676Z
+        ended at = 2018-06-07T11:17:00.703Z
+       13.
+        id = 25820180
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/element/4/location
+        created at = 2018-06-07T11:17:01.286Z
+        ended at = 2018-06-07T11:17:01.324Z
+       14.
+        id = 25820190
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/touch/perform
+        created at = 2018-06-07T11:17:01.881Z
+        ended at = 2018-06-07T11:17:02.410Z
+       15.
+        id = 25820203
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/window/current/size
+        created at = 2018-06-07T11:17:02.980Z
+        ended at = 2018-06-07T11:17:03.011Z
+       16.
+        id = 25820214
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:03.583Z
+        ended at = 2018-06-07T11:17:03.695Z
+       17.
+        id = 25820226
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:04.262Z
+        ended at = 2018-06-07T11:17:04.364Z
+       18.
+        id = 25820237
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:05.091Z
+        ended at = 2018-06-07T11:17:05.174Z
+       19.
+        id = 25820249
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:05.753Z
+        ended at = 2018-06-07T11:17:05.866Z
+       20.
+        id = 25820259
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:06.470Z
+        ended at = 2018-06-07T11:17:06.523Z
+   Page 3
+       1.
+        id = 25820271
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:07.117Z
+        ended at = 2018-06-07T11:17:07.185Z
+       2.
+        id = 25820283
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:07.746Z
+        ended at = 2018-06-07T11:17:07.815Z
+       3.
+        id = 25820293
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:08.380Z
+        ended at = 2018-06-07T11:17:08.428Z
+       4.
+        id = 25820303
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:08.990Z
+        ended at = 2018-06-07T11:17:09.132Z
+       5.
+        id = 25820315
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:09.696Z
+        ended at = 2018-06-07T11:17:09.750Z
+       6.
+        id = 25820324
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:10.398Z
+        ended at = 2018-06-07T11:17:10.453Z
+       7.
+        id = 25820334
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:11.142Z
+        ended at = 2018-06-07T11:17:11.229Z
+       8.
+        id = 25820341
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:11.777Z
+        ended at = 2018-06-07T11:17:11.829Z
+       9.
+        id = 25820350
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:12.401Z
+        ended at = 2018-06-07T11:17:12.500Z
+       10.
+        id = 25820360
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:13.068Z
+        ended at = 2018-06-07T11:17:13.174Z
+       11.
+        id = 25820368
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:13.727Z
+        ended at = 2018-06-07T11:17:13.834Z
+       12.
+        id = 25820375
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:14.400Z
+        ended at = 2018-06-07T11:17:14.499Z
+       13.
+        id = 25820382
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:15.056Z
+        ended at = 2018-06-07T11:17:15.158Z
+       14.
+        id = 25820398
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:16.520Z
+        ended at = 2018-06-07T11:17:16.568Z
+       15.
+        id = 25820408
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:18.610Z
+        ended at = 2018-06-07T11:17:18.659Z
+       16.
+        id = 25820418
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:19.911Z
+        ended at = 2018-06-07T11:17:19.961Z
+       17.
+        id = 25820457
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:23.884Z
+        ended at = 2018-06-07T11:17:23.934Z
+       18.
+        id = 25820467
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:24.703Z
+        ended at = 2018-06-07T11:17:24.755Z
+       19.
+        id = 25820476
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:25.314Z
+        ended at = 2018-06-07T11:17:25.370Z
+       20.
+        id = 25820483
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:25.929Z
+        ended at = 2018-06-07T11:17:26.035Z
+   Page 4
+       1.
+        id = 25820491
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:26.584Z
+        ended at = 2018-06-07T11:17:26.632Z
+       2.
+        id = 25820501
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:27.193Z
+        ended at = 2018-06-07T11:17:27.276Z
+       3.
+        id = 25820511
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:27.854Z
+        ended at = 2018-06-07T11:17:27.957Z
+       4.
+        id = 25820520
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:28.515Z
+        ended at = 2018-06-07T11:17:28.571Z
+       5.
+        id = 25820529
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:29.131Z
+        ended at = 2018-06-07T11:17:29.239Z
+       6.
+        id = 25820538
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:29.796Z
+        ended at = 2018-06-07T11:17:29.872Z
+       7.
+        id = 25820547
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:30.433Z
+        ended at = 2018-06-07T11:17:30.541Z
+       8.
+        id = 25820558
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:31.108Z
+        ended at = 2018-06-07T11:17:31.157Z
+       9.
+        id = 25820566
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:31.732Z
+        ended at = 2018-06-07T11:17:31.835Z
+       10.
+        id = 25820577
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/elements
+        created at = 2018-06-07T11:17:32.403Z
+        ended at = 2018-06-07T11:17:32.452Z
+       11.
+        id = 25820588
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/context
+        created at = 2018-06-07T11:17:33.051Z
+        ended at = 2018-06-07T11:17:33.083Z
+       12.
+        id = 25820597
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/contexts
+        created at = 2018-06-07T11:17:33.662Z
+        ended at = 2018-06-07T11:17:33.750Z
+       13.
+        id = 25820608
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/context
+        created at = 2018-06-07T11:17:34.308Z
+        ended at = 2018-06-07T11:17:34.389Z
+       14.
+        id = 25820617
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/screenshot
+        created at = 2018-06-07T11:17:35.010Z
+        ended at = 2018-06-07T11:17:36.799Z
+       15.
+        id = 25820636
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/context
+        created at = 2018-06-07T11:17:44.219Z
+        ended at = 2018-06-07T11:17:44.324Z
+       16.
+        id = 25820647
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/context
+        created at = 2018-06-07T11:17:44.912Z
+        ended at = 2018-06-07T11:17:44.948Z
+       17.
+        id = 25820657
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/contexts
+        created at = 2018-06-07T11:17:45.567Z
+        ended at = 2018-06-07T11:17:45.664Z
+       18.
+        id = 25820665
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/context
+        created at = 2018-06-07T11:17:46.285Z
+        ended at = 2018-06-07T11:17:46.376Z
+       19.
+        id = 25820671
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/screenshot
+        created at = 2018-06-07T11:17:46.939Z
+        ended at = 2018-06-07T11:17:48.485Z
+       20.
+        id = 25820683
+        data url = /wd/hub/session/303b0c8c-038d-47f4-a063-934a47b1701f/context
+        created at = 2018-06-07T11:17:49.805Z
+        ended at = 2018-06-07T11:17:49.929Z
